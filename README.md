@@ -82,7 +82,7 @@ This project explores a dataset of **1,789 hospital patient records** from 10 ma
 
 **Macdonald Uwachukwunenye**  
 Data Analyst | Tableau Developer  
-[LinkedIn](https://linkedin.com/in/the-macdonald) | [Portfolio]([#](https://themacdonald.vercel.app/)) 
+[LinkedIn](https://linkedin.com/in/the-macdonald) | [Portfolio](https://themacdonald.vercel.app/)
 
 ---
 
